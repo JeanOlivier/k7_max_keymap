@@ -1,4 +1,4 @@
-# k6_pro_keymap
+# k7_max_keymap
 
 Should be put in the `keyboards/keychron/k7_max/ansi/white/keymaps/jos` folder of the Keychron fork of QMK, "wireless_playground" branch.
 
